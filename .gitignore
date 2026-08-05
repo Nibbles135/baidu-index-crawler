@@ -1,0 +1,10 @@
+baidu_cipher.txt
+  baidu_cookies.txt
+  __pycache__/
+  *.pyc
+  *.pyo
+  *.xlsx
+  output_results/
+  .DS_Store
+  .vscode/
+  .idea/
